@@ -13,7 +13,6 @@
    - [[Configuration layers and Package discovery][Configuration layers and Package discovery]]
    - [[Key bindings discovery][Key bindings discovery]]
    - [[Describe functions][Describe functions]]
- - [[How-To's][How-To's]]
 
 * Configuration layers
 Spacemacs divides its configuration into self-contained units called
@@ -159,6 +158,3 @@ about functions, variables, modes etc. These commands are bound thusly:
 | ~SPC h d k~ | describe-key      |
 | ~SPC h d m~ | describe-mode     |
 | ~SPC h d v~ | describe-variable |
-
-* How-To's
-Some quick =how-to's= are compiled in the [[file:HOWTOs.org][HOWTOs.org]] file.
